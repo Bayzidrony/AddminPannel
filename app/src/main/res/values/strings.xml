@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AdminPannel</string>
+    <string-array name="gallery">
+        <item>Select Your Item</item>
+        <item>Independence Day</item>
+        <item>Rag Day</item>
+        <item>Annual Function</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="department">
+        <item>Select Your Item</item>
+        <item>BCSE</item>
+        <item>BBA</item>
+        <item>TEXTILE</item>
+        <item>ENVIRONMENT SCIENCE</item>
+    </string-array>
+</resources>
